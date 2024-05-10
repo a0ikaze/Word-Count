@@ -1,0 +1,3 @@
+D:/ProgramCreating/C&C++/work/Word Count/cmake-build-debug/CMakeFiles/Word_Count.dir
+D:/ProgramCreating/C&C++/work/Word Count/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ProgramCreating/C&C++/work/Word Count/cmake-build-debug/CMakeFiles/rebuild_cache.dir
